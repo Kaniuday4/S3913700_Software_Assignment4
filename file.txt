@@ -1,0 +1,4 @@
+1 Margarita Pizza tasty 17.0 200 Kid Food
+2 Mutton Biryani spicy 19.0 600 Adult Food
+3 Fruit salad very delicious 15.0 80 Healthy Food
+4 Garden salad Nutritious 23.0 100 Healthy Food
